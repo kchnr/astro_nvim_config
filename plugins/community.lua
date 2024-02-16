@@ -6,9 +6,9 @@ return {
 
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.rust" },
-  { import = "astrocommunity.pack.php" },
-  { import = "astrocommunity.pack.svelte" },
-  { import = "astrocommunity.pack.astro" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.colorscheme.github-nvim-theme" },
+  { import = "astrocommunity.colorscheme.everforest" },
 }
