@@ -20,7 +20,6 @@ return {
   -- Set colorscheme to use
   colorscheme = "everforest",
   background = "light",
-  everforest_background = "soft",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
