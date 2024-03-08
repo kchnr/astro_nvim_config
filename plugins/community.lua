@@ -9,5 +9,6 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.clojure" },
+  { import = "astrocommunity.pack.gleam" },
   { import = "astrocommunity.colorscheme.everforest" },
 }
